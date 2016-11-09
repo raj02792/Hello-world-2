@@ -10,7 +10,7 @@ src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.js">
 </script>
 </head>
 <body>
-<input ng-model="name" type="text" placeholder="Rajendra">
+<input ng-model="name" type="text" placeholder="Your Name">
 <hi> Hello {{ name }} </hi>
 </body>
 </html>
